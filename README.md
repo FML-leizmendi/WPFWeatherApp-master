@@ -7,4 +7,5 @@ Por otro aprendemos los componentes básicos de MVVM:
 * Using Design Mode Bindings
 * The ICommand interface
 * The ObservableCollection<T> class
+  
 Por último también vemos como utilizar IValueConverter interface lo que permite mejorar la experiencia del usuario
